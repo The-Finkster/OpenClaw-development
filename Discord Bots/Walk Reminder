@@ -1,0 +1,20 @@
+Discord "Walk Reminder" setup process
+
+🦞 OpenClaw 2026.9.4 (3a9d69d) — I have a SOUL.md and I'm not afraid to use it.
+
+Unknown target "The_Finkster's server/#general" for Discord. Hint: <channelId|user:ID|channel:ID>
+PS C:\Users\Ryan> openclaw message send --channel discord --target 1550277681873166358 --message "OpenClaw Discord test"
+│
+◇
+
+🦞 OpenClaw 2026.9.4 (3a9d69d)
+   If it's repetitive, I'll automate it; if it's hard, I'll bring jokes and a rollback plan.
+
+✅ Sent via Discord. Message ID: 1550282154863362171 (channel 1550277681873166358)
+PS C:\Users\Ryan>  openclaw message send --channel discord --target 1550277681873166358 --message "OpenClaw Discord test"
+│
+◇
+
+🦞 OpenClaw 2026.9.4 (3a9d69d) — If you can describe it, I can probably automate it—or at least make it funnier.
+
+✅ Sent via Discord. Message ID: 1550282559462580285 (channel 1550277681873166358)
